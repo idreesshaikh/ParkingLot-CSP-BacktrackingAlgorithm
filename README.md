@@ -23,3 +23,5 @@ Output to the standard output with values on each line are separated by tabs.
 1    1    1    1<br/>
 2    2    3    3<br/>
 2    2    4    4*<br/>
+
+Thanks to [David Kopec](https://www.youtube.com/watch?v=2GFmOOoX2RQ&ab_channel=ManningPublications) whose video I found on youtube to help me understand the constaint satisfaction problem (CSP) and implement my solution with a slight twist for my school assignment. Also check his amazing book **Classic Computer Science Problems in Python** and his [Github](https://github.com/davecom/ClassicComputerScienceProblemsInPython). 
